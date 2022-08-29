@@ -13,7 +13,7 @@ def test_cv006(endpoint):
     print(response.json())
 
 
-run('cv006')
+test_cv006('cv006')
 
 
 
