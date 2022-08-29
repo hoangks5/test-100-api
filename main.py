@@ -27,5 +27,4 @@ def run(endpoint):
     for x1 in x:
         x1.start()
 
-
 run('cv006')
