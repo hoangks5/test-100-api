@@ -28,4 +28,4 @@ def run(endpoint):
         x1.start()
 
 
-run('cv002')
+run('cv002_2')
