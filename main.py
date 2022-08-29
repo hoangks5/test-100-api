@@ -11,9 +11,7 @@ def test_cv006(endpoint):
         }
     response = requests.post(url, files=files, headers=headers)
     print(response.json())
-
-
-test_cv006('cv006')
+#test_cv006('cv006')
 
 
 
