@@ -42,8 +42,7 @@ def run_test(endpoint):
 
 def run_test1(endpoint):
     url = 'https://100api.orai.dev/'+endpoint
-    data = {'input_source_hash': 'QmVMFbKgoG2r1BZQW5hpiYUAt2ZTJFFBs6tW6UCRqeKRrM',
-            'lang': 'eng'}
+    data = {'input_source_hash': 'QmVMFbKgoG2r1BZQW5hpiYUAt2ZTJFFBs6tW6UCRqeKRrM'}
     headers = {
             'Authorization': 'ai_market'
         }
@@ -56,4 +55,4 @@ def run(endpoint):
     for x1 in x:
         x1.start()
 
-run('cv006')
+#run('cv006')
