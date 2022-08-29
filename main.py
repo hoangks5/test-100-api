@@ -40,3 +40,4 @@ def run(endpoint):
     x.append(threading.Thread(target=run_test1,args={endpoint,}))
     for x1 in x:
         x1.start()
+
