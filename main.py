@@ -2,7 +2,7 @@ import requests
 import threading
 
 
-def run_test(endpoint):
+def test_cv006(endpoint):
     url = 'https://100api.orai.dev/'+endpoint
     files = {'input_source': open('./images.jpeg','rb'),
             'lang':'eng'}
