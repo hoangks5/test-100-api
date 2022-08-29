@@ -37,9 +37,7 @@ def run_test(endpoint):
             'Authorization': 'ai_market'
         }
     response = requests.post(url, files=files, headers=headers)
-    with open('image.png', 'wb') as f:
-            for chunk in response:
-                f.write(chunk)
+    print(response.json())
 
 def run_test1(endpoint):
     url = 'https://100api.orai.dev/'+endpoint
