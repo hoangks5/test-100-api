@@ -31,7 +31,8 @@ def run(endpoint):
 
 def run_test(endpoint):
     url = 'https://100api.orai.dev/'+endpoint
-    files = {'input_source': open('./images.jpeg','rb')}
+    files = {'input_source': open('./images.jpeg','rb'),
+            'lang':'eng'}
     headers = {
             'Authorization': 'ai_market'
         }
