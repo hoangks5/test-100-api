@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+Tue Aug 30 2022 10:47:58 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* .DS_Store
+
+
+Created files:
+* demo.mp4
+
+
+Deleted files:
+
+
+Renamed files:

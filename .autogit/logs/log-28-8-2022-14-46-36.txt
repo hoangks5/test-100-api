@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Wed Sep 28 2022 14:46:36 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* jiso.png
+
+
+Deleted files:
+
+
+Renamed files:

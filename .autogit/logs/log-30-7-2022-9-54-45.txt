@@ -1,0 +1,31 @@
+-------------------- Auto-Git Log --------------------
+Tue Aug 30 2022 09:54:45 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+
+
+Deleted files:
+* bbgt.png
+* bsx.jpeg
+* bsx.png
+* city.png
+* flower.png
+* hogat.png
+* images.jpeg
+* kim.png
+* mu.png
+* nnhk.png
+* nnkh.png
+* noise.png
+* noise1.png
+* obama.png
+* text.png
+* text1.png
+* tranh.png
+
+
+Renamed files:

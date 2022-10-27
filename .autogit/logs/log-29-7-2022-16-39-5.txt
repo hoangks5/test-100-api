@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+Mon Aug 29 2022 16:39:05 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* main.ipynb
+
+
+Created files:
+* kim.png
+
+
+Deleted files:
+
+
+Renamed files:

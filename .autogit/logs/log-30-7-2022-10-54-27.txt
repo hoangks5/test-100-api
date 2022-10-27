@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+Tue Aug 30 2022 10:54:27 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* 100API.ipynb
+* main.ipynb
+
+
+Created files:
+* sm.jpeg
+
+
+Deleted files:
+
+
+Renamed files:

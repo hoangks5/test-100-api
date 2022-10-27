@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Wed Aug 31 2022 13:54:40 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* sudo.png
+
+
+Deleted files:
+
+
+Renamed files:

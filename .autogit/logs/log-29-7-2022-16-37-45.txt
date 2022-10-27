@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Mon Aug 29 2022 16:37:45 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* obama.png
+
+
+Deleted files:
+
+
+Renamed files:
